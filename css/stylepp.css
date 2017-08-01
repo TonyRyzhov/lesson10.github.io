@@ -1,0 +1,17 @@
+*{
+	box-sizing: border-box;
+}
+.box{
+	height: 400px;
+	width: 300px;
+	border:2px solid #2d3037;
+	position: fixed;
+	left: 50%;
+	margin-left: -150px;
+	top: 50%;
+	margin-top: -200px;
+}
+.text{
+	column-count: 2;
+	padding: 20px 30px;	
+}
